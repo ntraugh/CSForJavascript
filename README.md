@@ -1,4 +1,4 @@
-# CSForJavascript
+# Regex Email Verification
 
 This tutorial will teach you how to read a regular expression that matches an email.
 
